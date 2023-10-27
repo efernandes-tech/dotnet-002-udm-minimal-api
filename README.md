@@ -1,16 +1,16 @@
 <h1 align="center">
-    <a href="#" alt="site">My Template Repository</a>
+    <a href="#" alt="site">My Tasks Minimal Api</a>
 </h1>
 
 <h3 align="center">
-    My base repository for projects
+    My tasks minimal api
 </h3>
 
 <p align="center">
-    <a href="https://github.com/efernandes-tech/proj-007-my-template-repository/commits/main">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/efernandes-tech/proj-007-my-template-repository">
+    <a href="https://github.com/efernandes-tech/dotnet-002-udm-minimal-api/commits/main">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/efernandes-tech/dotnet-002-udm-minimal-api">
     </a>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/efernandes-tech/proj-007-my-template-repository">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/efernandes-tech/dotnet-002-udm-minimal-api">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
     <a href="https://edersonfernandes.com.br">
         <img alt="made by @efernandes.tech" src="https://img.shields.io/badge/Made%20by-@efernandes.tech-%2360F6AD">
@@ -34,7 +34,7 @@
 
 ## About
 
-My Template Repository - description about the project
+My Tasks Minimal Api - description about the project
 
 ---
 
@@ -62,20 +62,20 @@ My Template Repository - description about the project
 
 The application layout is available on Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/MyTemplateRepository?node-id=136%3A546">
+<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/MyTasksMinimalApi?node-id=136%3A546">
   <img alt="Made by @efernandes.tech" src="https://img.shields.io/badge/Access%20Layout%20-Figma-%2304D361">
 </a>
 
 ### Mobile
 
 <p align="center">
-  <img alt="MyTemplateRepository" title="#MyTemplateRepository" src="./support/layout-mobile.png" width="200px">
+  <img alt="MyTasksMinimalApi" title="#MyTasksMinimalApi" src="./support/layout-mobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="MyTemplateRepository" title="#MyTemplateRepository" src="./support/layout-web.png" width="400px">
+  <img alt="MyTasksMinimalApi" title="#MyTasksMinimalApi" src="./support/layout-web.png" width="400px">
 </p>
 
 ---
@@ -102,10 +102,10 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:efernandes-tech/proj-007-my-template-repository.git
+$ git clone git@github.com:efernandes-tech/dotnet-002-udm-minimal-api.git
 
 # Access the project folder cmd/terminal
-$ cd my-template-repository
+$ cd dotnet-002-udm-minimal-api
 
 # go to the server folder
 $ cd server
@@ -121,7 +121,7 @@ $ dotnet run
 ```
 
 <p align="center">
-    <a href="https://github.com/efernandes-tech/proj-007-my-template-repository/blob/main/support/Insomnia_MyTemplateRepository.json" target="_blank">
+    <a href="https://github.com/efernandes-tech/dotnet-002-udm-minimal-api/blob/main/support/Insomnia_MyTasksMinimalApi.json" target="_blank">
         <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
     </a>
 </p>
@@ -131,10 +131,10 @@ $ dotnet run
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:efernandes-tech/proj-007-my-template-repository.git
+$ git clone git@github.com:efernandes-tech/dotnet-002-udm-minimal-api.git
 
 # Access the project folder in your terminal
-$ cd my-template-repository
+$ cd dotnet-002-udm-minimal-api
 
 # Go to the Front End application folder
 $ cd web
@@ -164,14 +164,14 @@ The following tools were used in the construction of the project:
 -   **[React Leaflet](https://react-leaflet.js.org/)**
 -   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> See the file [package.json](https://github.com/efernandes-tech/proj-007-my-template-repository/blob/main/web/package.json)
+> See the file [package.json](https://github.com/efernandes-tech/dotnet-002-udm-minimal-api/blob/main/web/package.json)
 
 #### **Server** ([.NET](https://dotnet.microsoft.com/en-us/download) + [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/))
 
 -   **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 
-> See the file [api.csproj](https://github.com/efernandes-tech/proj-007-my-template-repository/blob/main/server/api/api.csproj)
+> See the file [api.csproj](https://github.com/efernandes-tech/dotnet-002-udm-minimal-api/blob/main/server/api/api.csproj)
 
 #### **Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
 
@@ -185,17 +185,17 @@ The following tools were used in the construction of the project:
 -   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
-> See the file [package.json](https://github.com/efernandes-tech/proj-007-my-template-repository/blob/main/mobile/package.json)
+> See the file [package.json](https://github.com/efernandes-tech/dotnet-002-udm-minimal-api/blob/main/mobile/package.json)
 
 #### **Utilities**
 
--   Prototype: **[Figma](https://www.figma.com/)** → **[Prototype (MyTemplateRepository)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/MyTemplateRepository)**
--   API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API States](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API Counties](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
+-   Prototype: **[Figma](https://www.figma.com/)** → **[Prototype (MyTasksMinimalApi)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/MyTasksMinimalApi)**
+-   Api: **[IBGE Api](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[Api States](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[Api Counties](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
 -   Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
 -   Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
 -   Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 -   Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
--   API Test: **[Insomnia](https://insomnia.rest/)**
+-   Api Test: **[Insomnia](https://insomnia.rest/)**
 -   Icons: **[Feather Icons](https://feathericons.com/)**, **[Font Awesome](https://fontawesome.com/)**
 -   Fonts: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
